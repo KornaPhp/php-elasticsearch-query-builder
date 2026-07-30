@@ -2,6 +2,19 @@
 
 All notable changes to `elasticsearch-query-builder` will be documented in this file.
 
+## 3.11.0 - 2026-07-30
+
+### What's Changed
+
+* Fix `ReverseNestedAggregation` emitting an empty `aggs` array by @ramicbenjamin in https://github.com/spatie/elasticsearch-query-builder/pull/83
+* Add RangeAggregation by @ramicbenjamin in https://github.com/spatie/elasticsearch-query-builder/pull/84
+
+### New Contributors
+
+* @ramicbenjamin made their first contribution in https://github.com/spatie/elasticsearch-query-builder/pull/83
+
+**Full Changelog**: https://github.com/spatie/elasticsearch-query-builder/compare/3.10.0...3.11.0
+
 ## 3.10.0 - 2026-04-28
 
 ### What's Changed
